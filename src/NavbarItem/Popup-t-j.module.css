@@ -1,0 +1,18 @@
+.container{
+    overflow: scroll;
+}
+
+.copyI input {
+    width: 300px;
+}
+
+.copyI {
+    margin-top: 20px;
+}
+
+.copyI p {
+    margin-right: 10px;
+    margin-top: 10px;
+    text-align: right;
+    font-size: larger;
+}

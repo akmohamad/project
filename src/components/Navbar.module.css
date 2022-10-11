@@ -1,0 +1,14 @@
+body {
+    direction: rtl;
+    width: 100%;
+}
+li {
+    font-size: smaller;
+    padding: 10px;
+}
+
+button {
+    border: none;
+    color: black;
+    background-color: #ffbe00;
+}

@@ -1,0 +1,69 @@
+body {
+    direction: rtl;
+}
+label {
+    margin-top: 2px;
+    margin-right: 10px;
+    padding-top: 22px ;
+}
+.inputs input {
+    width: 250px;
+    margin-left: 10px;
+}
+.radif1 {
+    text-align: start;
+}
+
+
+.trapezoid {
+    background-color: transparent;
+    margin-right: 55px;
+    margin-top: 15px;
+    width: 150px;
+    text-align: center;
+    height: 0;
+    position: relative;
+    border-top: 40px solid orangered;
+    border-left: 50px solid transparent;
+    box-sizing: content-box;
+    display: inline;
+}
+.trapezoid span {
+    position: absolute;
+    top: -35px;
+    left: 30%;
+    color: #fff;
+    font-size: large;
+    text-shadow: 1px 1px 1px grey;
+}
+
+.trapezoidd {
+    margin-right: -80px;
+    background-color: transparent;
+    width: 150px;
+    text-align: center;
+    height: 0;
+    position: relative;
+    border-bottom: 40px solid green;
+    border-right: 50px solid transparent;
+    box-sizing: content-box;
+    display: inline;
+}
+.trapezoidd span {
+    position: absolute;
+    top: 7px;
+    left: 35%;
+    color: #fff;
+    font-size: large;
+    text-shadow: 1px 1px 1px grey;
+}
+
+.vorod {
+    margin-top: 10px;
+}
+.aaa {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    margin-top: 5px;
+}

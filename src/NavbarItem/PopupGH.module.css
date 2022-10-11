@@ -1,0 +1,23 @@
+.rightt{
+    padding-right: 20px;
+    display: flex;
+    margin-top: -40px;
+}
+
+.pp{
+    margin-top: 8px;
+    margin-right: 5px;
+}
+
+.p1{
+    padding: 10px;
+    text-align: justify;
+}
+
+.btnn {
+    width: 100px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 5px;
+}
